@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|center_horizontal"
+        android:textAlignment="center"
+        android:text="@string/quiz_difficulty"
+        android:textSize="18sp"
+        android:padding="24dp"
+        android:layout_marginTop="10dp"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_gravity="center">
+
+        <Button
+            android:id="@+id/easy_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minWidth="225dp"
+            android:backgroundTint="@color/colorEasyButton"
+            android:text="@string/easy_button"/>
+
+        <Button
+            android:id="@+id/hard_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minWidth="225dp"
+            android:layout_marginTop="10dp"
+            android:backgroundTint="@color/colorHardButton"
+            android:text="@string/hard_button"/>
+    </LinearLayout>
+
+</FrameLayout>

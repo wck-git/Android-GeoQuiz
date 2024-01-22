@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_header">Question: %d/%d</string>
+    <string name="next_button">NEXT</string>
+    <string name="previous_button">PREV</string>
+    <string name="reset_button">RESET</string>
+
+    <!--Toast Message-->
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="reset_toast">The questions, buttons, and scores has been shuffled and reset</string>
+
+    <!--Cheat System-->
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgement_toast">Cheating is wrong.</string>
+    <string name="remaining_cheat_text">Remaining: %d</string>
+
+    <!--Result System-->
+    <string name="result_summary">RESULT SUMMARY</string>
+    <string name="question_answered_text">Total Question Answered: %d/%d</string>
+    <string name="score_text">Total Score: %d</string>
+    <string name="cheat_attempts_text">Total Cheat Attempts: %d</string>
+
+    <!--Difficulty System-->
+    <string name="quiz_difficulty">Please choose quiz difficulty</string>
+    <string name="easy_button">EASY</string>
+    <string name="hard_button">HARD</string>
+
+    <!--Easy Selections and Questions-->
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="easy_question_australia">Canberra is the capital of Australia.</string>
+    <string name="easy_question_oceans">The Pacific Ocean is larger than the Atlantic Ocean.</string>
+    <string name="easy_question_mideast">The Suez Canal connects the Red Sea and the Indian Ocean.</string>
+    <string name="easy_question_africa">The source of the Nile River is in Egypt.</string>
+    <string name="easy_question_americas">The Amazon River is the longest river in the Americas.</string>
+    <string name="easy_question_asia">Lake Baikal is the world\'s oldest and deepest freshwater lake.</string>
+    <string name="easy_question_caspian_sea_largest_lake">The largest lake in the world is the Caspian Sea.</string>
+    <string name="easy_question_mississippi_river_longest_river">The Mississippi River is the longest river in the world.</string>
+
+    <!--Hard Selections and Questions-->
+    <string name="hard_question_world_largest_population">Which country has the largest population in the world?</string>
+    <string name="hard_selectionA_world_largest_population">India</string>
+    <string name="hard_selectionB_world_largest_population">Thailand</string>
+    <string name="hard_selectionC_world_largest_population">Malaysia</string>
+    <string name="hard_selectionD_world_largest_population">China</string>
+    <string name="hard_question_mexico">What is the capital of Mexico? </string>
+    <string name="hard_selectionA_mexico">Bangkok</string>
+    <string name="hard_selectionB_mexico">Kuala Lumpur</string>
+    <string name="hard_selectionC_mexico">Mexico City</string>
+    <string name="hard_selectionD_mexico">Seoul</string>
+    <string name="hard_question_canada">What is the capital of Canada?</string>
+    <string name="hard_selectionA_canada">Tokyo</string>
+    <string name="hard_selectionB_canada">Ottawa</string>
+    <string name="hard_selectionC_canada">Shanghai</string>
+    <string name="hard_selectionD_canada">Rome</string>
+    <string name="hard_question_germany">How many federal states does Germany have?</string>
+    <string name="hard_selectionA_germany">16</string>
+    <string name="hard_selectionB_germany">10</string>
+    <string name="hard_selectionC_germany">6</string>
+    <string name="hard_selectionD_germany">23</string>
+    <string name="hard_question_coldest_sea">What is the name of the coldest sea on Earth?</string>
+    <string name="hard_selectionA_coldest_sea">The Arctic</string>
+    <string name="hard_selectionB_coldest_sea">Atlantic Ocean</string>
+    <string name="hard_selectionC_coldest_sea">Aral Sea</string>
+    <string name="hard_selectionD_coldest_sea">Sea of Okhotsk</string>
+    <string name="hard_question_white_house_location">What city is the White House located in?</string>
+    <string name="hard_selectionA_white_house_location">New York</string>
+    <string name="hard_selectionB_white_house_location">London</string>
+    <string name="hard_selectionC_white_house_location">San Diego</string>
+    <string name="hard_selectionD_white_house_location">Washington, D.C.</string>
+    <string name="hard_question_US_largest_lake">What is the name of the largest lake in the US?</string>
+    <string name="hard_selectionA_US_largest_lake">Lake Winnipesaukee</string>
+    <string name="hard_selectionB_US_largest_lake">Lake Michigan</string>
+    <string name="hard_selectionC_US_largest_lake">Lake of the Ozarks</string>
+    <string name="hard_selectionD_US_largest_lake">Lake Superior</string>
+</resources>

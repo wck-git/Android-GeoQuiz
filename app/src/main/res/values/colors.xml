@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#333333</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--DIFFICULTY BUTTON-->
+    <color name="colorEasyButton">#00CA4E</color>
+    <color name="colorHardButton">#F32013</color>
+
+    <!--EASY - True False Button Color-->
+    <color name="colorTrueButton">#00AB66</color>
+    <color name="colorFalseButton">#FF0021</color>
+
+    <!--HARD - A,B,C,D Button Color-->
+    <color name="colorAButton">#FF0021</color>
+    <color name="colorBButton">#24A0ED</color>
+    <color name="colorCButton">#FFBD44</color>
+    <color name="colorDButton">#00AB66</color>
+</resources>
